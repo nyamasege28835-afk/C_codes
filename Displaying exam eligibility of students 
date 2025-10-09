@@ -1,6 +1,6 @@
 /*
-Name:Arnold Siere Nyamasege 
-Reg no:PA106/G/28835/25
+Name: Arnold Siere Nyamasege 
+Reg no: PA106/G/28835/25
 Description: Displaying exam eligibility of students
 */
 #include<stdio.h>
