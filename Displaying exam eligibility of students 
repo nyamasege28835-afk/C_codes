@@ -6,7 +6,6 @@ Description: Displaying exam eligibility of students
 #include<stdio.h>
 
 
-
 int main() { //main fuction
     int attendance;
     int average;
