@@ -1,0 +1,23 @@
+/*
+Name :Arnold Siere
+Reg No :PA106/G/28835/26
+Description : Distance in kilometers to fare in shillings 
+*/
+#include<stdio.h>
+
+// calculation of fare
+// declared variables: distance in Kilometre, fareInKsh
+// ksh50 = one kilometre
+
+int main() {
+    float distanceInKilometre, fareInKsh;
+
+    printf("Enter distance in kilometre: ");
+    scanf("%f", &distanceInKilometre);
+
+    fareInKsh = distanceInKilometre * 50;
+
+    printf("Fare in shillings: %.2f\n", fareInKsh);
+
+    return 0;
+}
